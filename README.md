@@ -66,7 +66,7 @@ Dataset Source: [Kaggle - DataCo Smart Supply Chain](https://www.kaggle.com/data
 - Inventory turnover varies significantly by category — potential for optimization.
 
 ## 📷 Dashboard & Plots
-*(Add screenshots of your plots here — save them as PNG and upload to repo)*
+
 
 Example:
 ![On-Time Delivery %](otd_category.png)  
@@ -87,3 +87,4 @@ Example:
    ```bash
    git clone https://github.com/yourusername/supply-chain-analysis.git
    cd supply-chain-analysis
+
