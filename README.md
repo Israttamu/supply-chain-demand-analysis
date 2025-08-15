@@ -85,6 +85,7 @@ Example:
 ## 🚀 How to Run
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/yourusername/supply-chain-analysis.git
+   git clone https://github.com/Israttamu/supply-chain-analysis.git
    cd supply-chain-analysis
+
 
