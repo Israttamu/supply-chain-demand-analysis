@@ -1,7 +1,7 @@
 # Supply Chain & Demand Analysis
 
 ## 📌 Project Overview
-This project analyzes **Tex Fasteners’** supply chain data (zippers, buttons, snaps) to identify bottlenecks, seasonal trends, and inventory patterns.  
+This project analyzes a manufacturing company's supply chain data (zippers, buttons, snaps) to identify bottlenecks, seasonal trends, and inventory patterns.  
 The goal is to improve **inventory management** and **on-time deliveries** through data-driven insights.
 
 Dataset Source: [Kaggle - DataCo Smart Supply Chain](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)  
@@ -87,5 +87,6 @@ Example:
    ```bash
    git clone https://github.com/Israttamu/supply-chain-analysis.git
    cd supply-chain-analysis
+
 
 
